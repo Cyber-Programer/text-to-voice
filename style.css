@@ -5,6 +5,10 @@
     resize: none;
 }
 
+body{
+    background: linear-gradient(45deg,#010758,#490d61);
+}
+
 
 .hero{
     /* min-height: 100vh; */
